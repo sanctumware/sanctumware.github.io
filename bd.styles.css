@@ -428,17 +428,17 @@ table tr:nth-child(even) td {
 	border-top-right-radius: 6px;
 	border-bottom-right-radius: 6px;
 	/* Gradient */
-	background-image: linear-gradient(bottom, rgb(221,58,13) 0%, rgb(233,105,37) 100%);
-	background-image: -o-linear-gradient(bottom, rgb(221,58,13) 0%, rgb(233,105,37) 100%);
-	background-image: -moz-linear-gradient(bottom, rgb(221,58,13) 0%, rgb(233,105,37) 100%);
-	background-image: -webkit-linear-gradient(bottom, rgb(221,58,13) 0%, rgb(233,105,37) 100%);
-	background-image: -ms-linear-gradient(bottom, rgb(221,58,13) 0%, rgb(233,105,37) 100%);
+	background-image: linear-gradient(bottom, rgb(179,190,173) 0%, rgb(223,229,215) 48%, rgb(179,190,173) 100%);
+	background-image: -o-linear-gradient(bottom, rgb(179,190,173) 0%, rgb(223,229,215) 48%, rgb(179,190,173) 100%);
+	background-image: -moz-linear-gradient(bottom, rgb(179,190,173) 0%, rgb(223,229,215) 48%, rgb(179,190,173) 100%);
+	background-image: -webkit-linear-gradient(bottom, rgb(179,190,173) 0%, rgb(223,229,215) 48%, rgb(179,190,173) 100%);
+	background-image: -ms-linear-gradient(bottom, rgb(179,190,173) 0%, rgb(223,229,215) 48%, rgb(179,190,173) 100%);
 	background-image: -webkit-gradient(
 		linear,
 		left bottom,
 		left top,
-		color-stop(0, rgb(221,58,13)),
-		color-stop(1, rgb(233,105,37))
+		color-stop(0, rgb(179,190,173)),
+		color-stop(1, rgb(223,229,215))
 	);
 }
 .description p {
