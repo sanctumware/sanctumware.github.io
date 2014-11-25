@@ -51,7 +51,7 @@
 		
 		// For some reason IE 8 and below does not like this rule
 		if ($.browser.msie && ($.browser.version < 9.0) ) { } else {
-			footer.append('<p>Powered by <a href="https://github.com/sebnitu/BaseDemo">BaseDemo</a>. Code responsibly.</p>');
+			footer.append('<p>&copy;2014 SanctumWare&reg; Systems. Based on <a href="https://github.com/sebnitu/BaseDemo">BaseDemo</a>. Code responsibly.</p>');
 		}
 		
 	});
