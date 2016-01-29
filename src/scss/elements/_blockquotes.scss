@@ -1,0 +1,21 @@
+// Set file variable
+$filename: 'scss/elements/_blockquotes.scss';
+
+/*==============================================================================
+  @Blockquotes - #{$filename}
+==============================================================================*/
+
+blockquote {
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  background: $bg-color;
+  @include border-radius();
+  
+  footer,
+  .blockquote-footer {
+    display: block;
+    position: relative;
+    margin: 1rem 0;
+    font-size: 100%;
+  }
+}
