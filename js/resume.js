@@ -324,9 +324,9 @@ CMDResume.getSplash = function(){
         welcome = splash + "\n";
     }
     if (isNotEmpty(name)){
-        welcome += "Welcome to " + setName(name) + "'s résumé.\n";
+        welcome += "Welcome to " + setName(name) + "'s Web Terminal.\n";
     } else {
-        welcome += "Welcome to my résumé.\n";
+        welcome += "Welcome to our web terminal.\n";
     }
     welcome += "Type ";
     welcome += setCommand("help");
