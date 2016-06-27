@@ -68,7 +68,7 @@ var skillsConcepts = [["Proficient", "Kanban Agile"],
 	["Familiar", "Functional Programming"]];
 
 var publicPGPkey = "\n"
-  + "fingerprint:	95FFF5095B4A658A972FD7BBEBAE73B2B11F25D4\n"
-  + "64-bit:	EBAE73B2B11F25D4\n"
-  + "curl/raw:	keybase.io/sanctumware/key.asc\n"
+//  + "fingerprint:	95FFF5095B4A658A972FD7BBEBAE73B2B11F25D4\n"
+//  + "64-bit:	EBAE73B2B11F25D4\n"
+//  + "curl/raw:	keybase.io/sanctumware/key.asc\n"
   + ";
