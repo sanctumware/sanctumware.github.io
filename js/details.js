@@ -17,24 +17,24 @@ var hasSplash = true;
 var name = "SanctumWare Systems";
 var loc = "Philippines";
 var lookingfor = "";
-var pdfLink = "http://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9";
+var pdfLink = "";
 
 // Settings
 var showForks = false; // Shows forks of repositories on Github
 
 // Github and Bitbucket accounts
-var githubUsername = "example";
-var bitbucketUsername = "example";
+var githubUsername = "sanctumware";
+var bitbucketUsername = "sanctumware";
 var githubURL = "https://github.com/" + githubUsername;
 var bitbucketURL = "https://bitbucket.org/" + bitbucketUsername;
 
 // If left blank e.g. url = "" then it won't appear
-var websiteURL = "http://www.example.com/";
+var websiteURL = "http://sanctumware.net/";
 var blogURL = "";
 var portfolioURL = "";
-var twitterURL = "https://twitter.com/";
-var facebookURL = "https://facebook.com/";
-var skypeAccount = "test";
+var twitterURL = "https://twitter.com/sanctumware";
+var facebookURL = "https://facebook.com/sanctumware";
+var skypeAccount = "sanctumware";
 var socialMedia = [["Github", githubURL], ["Bitbucket", bitbucketURL], ["Website", websiteURL], 
 	["Blog", blogURL], ["Portfolio", portfolioURL], ["Twitter", twitterURL], ["Facebook", facebookURL],
 	["Skype", skypeAccount]];
