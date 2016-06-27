@@ -1,22 +1,22 @@
 // Splash
 var splash = ""
-+ "+----------------------------------------------------------------------\n"
-+ "\n"
-+ "             .___   SanctumWare Systems                       \n"              
-+ "           __| _/_______  _______ _______   ____ _____        \n"
-+ "          / __ |/ __ \  \/ /\__  \\_  __ \_/ __ \\__  \       \n"
-+ "         / /_/ \  ___/\   /  / __ \|  | \/\  ___/ / __ \_     \n"
-+ "         \____ |\___  >\_/  (____  /__|    \___  >____  /     \n"
-+ "              \/    \/           \/            \/     \/ .org \n"
-+ "\n"
-+ "+----------------------------------------------------------------------\n";
+	+ "+----------------------------------------------------------------------\n"
+	+ "|\n"
+	+ "|              .___   SanctumWare Systems \n"
+	+ "|            __| _/_______  _______ _______   ____ _____\n"
+	+ "|           / __ |/ __ \\  \\/ /\\__  \\_  __ \\_/ __ \\__  \\\n"
+	+ "|          / /_/ \\  ___/\\   /  / __ \\|  | \\/\\  ___/ / __ \\_\n"
+	+ "|          \\____ |\\___  >\\_/  (____  /__|    \\___  >____  /\n"
+	+ "|               \\/    \\/           \\/            \\/     \\/ .org\n"
+	+ "|\n"
+	+ "+----------------------------------------------------------------------\n";
 
 var hasSplash = true;
 
 // Details
 var name = "SanctumWare Systems";
 var loc = "Philippines";
-var lookingfor = "Raking in the money";
+var lookingfor = "";
 var pdfLink = "http://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9";
 
 // Settings
@@ -68,4 +68,7 @@ var skillsConcepts = [["Proficient", "Kanban Agile"],
 	["Familiar", "Functional Programming"]];
 
 var publicPGPkey = "\n"
-  + "YOUR PGP KEY HERE";
+  + "fingerprint:	95FFF5095B4A658A972FD7BBEBAE73B2B11F25D4\n"
+  + "64-bit:	EBAE73B2B11F25D4\n"
+  + "curl/raw:	keybase.io/sanctumware/key.asc\n"
+  + ";
